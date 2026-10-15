@@ -1,0 +1,4 @@
+Hello, world! This is a simple sample text file.
+It contains a few lines for testing and development.
+Line three: Quick brown foxes jump over lazy dogs.
+Line four: End of sample content.
